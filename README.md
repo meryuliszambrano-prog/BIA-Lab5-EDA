@@ -1,14 +1,20 @@
-# BIA – Lab Activity 5: Python Libraries for Data Science and ML
+# BIA – Lesson 5: Python Libraries for Data Science and ML
 
 **Student:** Meryulis Zambrano – Willis College, Business Intelligence Analyst diploma
 
-## Contents
+## Lab Activity 5
 - `Lab5_EDA_Meryulis_Zambrano.ipynb` – Colab notebook
 - `Lab5_EDA_Meryulis_Zambrano.pdf` – notebook exported as PDF with outputs
 
-## Topics
-1. **File read/write operations** – reading csv, tsv, xlsx and json files, reading from URLs, reading in chunks, and writing DataFrames to csv, tsv, xlsx and json.
-2. **Exploratory Data Analysis with visualisations** – randomly generated data, cumulative sum, descriptive statistics, line/bar/histogram/box/scatter/hexbin/pie plots, distributions, scatter matrix, and a GeoDataFrame map of the London boroughs.
+Topics: reading and writing csv, tsv, xlsx and json files; EDA with visualisations
+(line, bar, histogram, box, scatter, pie, distributions) and a GeoDataFrame map.
+
+## Lesson 5 Assignment – EDA using Pandas
+- `Lesson_5_Assignment_Meryulis_Zambrano.ipynb` – EDA of the Titanic dataset
+
+Topics: data inspection, cleaning (missing ages, new features), Series and DataFrames,
+multi-indexing, survival analysis by sex and class, and visualisations
+(histogram, bar plot, heatmap, pair plot, box plot, violin plot), with insights in markdown notes.
 
 ## Tools
 Python, pandas, NumPy, Matplotlib, seaborn, GeoPandas – Google Colab
